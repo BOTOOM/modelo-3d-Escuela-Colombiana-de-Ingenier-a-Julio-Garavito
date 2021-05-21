@@ -1,0 +1,45 @@
+<artworkinfo>
+	<albuminfo>
+		<artLocation>reglamento.jpg</artLocation>
+		<artist>Reglamento Estudiantil</artist>
+		<albumName>Greatest Hits</albumName>
+		<artistLink>http://www.google.com</artistLink>
+		<albumLink>data/xml/swfdocs/reglamento.swf</albumLink>
+	</albuminfo>
+	<albuminfo>
+		<artLocation>regimen.jpg</artLocation>
+		<artist>Regimenes de Participacion de los estudiantes en la Escuela</artist>
+		<albumName>Greatest Hits</albumName>
+		<artistLink>http://www.google.com</artistLink>
+		<albumLink>data/xml/swfdocs/regimenes.swf</albumLink>
+	</albuminfo>
+	<albuminfo>
+		<artLocation>servicios.jpg</artLocation>
+		<artist>Servicios</artist>
+		<albumName>Greatest Hits</albumName>
+		<artistLink>http://www.google.com</artistLink>
+		<albumLink>data/xml/swfdocs/servicios.swf</albumLink>
+	</albuminfo>
+		<albuminfo>
+		<artLocation>todos.jpg</artLocation>
+		<artist>Todos en Red</artist>
+		<albumName>Greatest Hits</albumName>
+		<artistLink>http://www.google.com</artistLink>
+		<albumLink>data/xml/swfdocs/todos.swf</albumLink>
+	</albuminfo>
+	<albuminfo>
+		<artLocation>pei.jpg</artLocation>
+		<artist>Reglamento de Posgrados</artist>
+		<albumName>Greatest Hits</albumName>
+		<artistLink>http://www.google.com</artistLink>
+		<albumLink>data/xml/swfdocs/PEI.swf</albumLink>
+	</albuminfo>
+	<albuminfo>
+		<artLocation></artLocation>
+		<artist> </artist>
+		<albumName>Greatest Hits</albumName>
+		<artistLink>http://www.google.com</artistLink>
+		<albumLink></albumLink>
+	</albuminfo>
+	
+</artworkinfo>
